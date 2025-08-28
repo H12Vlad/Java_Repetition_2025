@@ -1,4 +1,4 @@
-package org.Part_1;
+package org.Part_1.task_1;
 
 public class HelloWorld {
     public static void main(String[] args){
